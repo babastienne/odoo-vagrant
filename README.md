@@ -10,6 +10,7 @@ When the vagrant machine is up and launched, you need to finalize the installati
     git clone https://github.com/babastienne/scripts_launch_odoo scripts 
 
 *If you want to have the enterprise version of odoo*
+
     cd /odoo
     sudo git clone https://github.com/e-COSI/enterprise
 
